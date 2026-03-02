@@ -106,7 +106,7 @@ mysql -u root -p < database/schema.sql
 ```bash
 cd backend
 npm install
-cp .env.example .env
+cp .env
 ```
 
 Edit `.env`:
