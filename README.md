@@ -61,7 +61,7 @@ vom-clinical-hours-tracker/
 │   │   │   ├── supervisorRoutes.js
 │   │   │   └── dashboardRoutes.js
 │   │   └── server.js
-│   ├── .env.example
+│   ├── .env
 │   └── package.json
 │
 ├── frontend/
